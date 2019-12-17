@@ -1,1 +1,1 @@
-# venders
+# vendors
